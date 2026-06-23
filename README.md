@@ -1,11 +1,1 @@
-1-06-2026;01-06-2026;19-06-2026;Pablo Palma;Analisis Informacion;Gestion Control Calidad;9999;VARIOS;3;3;$/jornada;Planificacion semanal;136952;410856;Fabian Veloso;Gestion;FV;
-01-06-2026;01-06-2026;19-06-2026;Pablo Palma;Jornada Terreno;Control Calidad H&P H F Excavadora;3049;SAMARKANDA;4;4;$/control;Control de calidad P&C;49237;196948;Marcos Poblete;H&PS;NM;
-01-06-2026;01-06-2026;19-06-2026;Pablo Palma;Jornada Terreno;Control Calidad H&P H F Excavadora;3049;SAMARKANDA;4;4;$/control;Control de calidad P&C;49237;196948;Nicolas Jorquera;H&PS;NM;
-01-06-2026;01-06-2026;19-06-2026;Pablo Palma;Jornada Terreno;Control Calidad Plantación;4531;LA ESPERANZA;4;4;$/control;Control de calidad P&C;52053;208212;Hector Gutierrez;Plantación;HJ;
-01-06-2026;01-06-2026;19-06-2026;Pablo Palma;Jornada Terreno;Control Calidad Plantación;4531;LA ESPERANZA;4;4;$/control;Control de calidad P&C;52053;208212;Rodrigo Campos;Plantación;HJ;
-01-06-2026;01-06-2026;19-06-2026;Pablo Palma;Jornada Terreno;Control Calidad Plantación;5117;LA SUERTE;4;4;$/control;Control de calidad P&C;52053;208212;Yerko Chavez;Plantación;YC;
-01-06-2026;01-06-2026;19-06-2026;Pablo Palma;Jornada Terreno;Control Calidad Plantas;4531;LA ESPERANZA;1;1;$/control;Control de calidad P&C;52053;52053;Rodrigo Campos;Plantación;HJ;
-01-06-2026;01-06-2026;19-06-2026;Pablo Palma;Jornada Terreno;Control Calidad Plantas;5117;LA SUERTE;1;1;$/control;Control de calidad P&C;52053;52053;Yerko Chavez;Plantación;YC;
-01-06-2026;01-06-2026;19-06-2026;Pablo Palma;Jornada Terreno;Control Calidad Poda 3;3051;RANCHO GRANDE;2;2;$/control;Control de calidad P&C;37431;74862;Juan Lagos;Manejo;JL;
-01-06-2026;01-06-2026;19-06-2026;Pablo Palma;Jornada Terreno;Control Calidad Poda 3;3051;RANCHO GRANDE;2;2;$/control;Control de calidad P&C;37431;74862;Matias Vallejos;Manejo;JL;
-01-06-2026;01-06-2026;08-06-2026;Cesar Farias;Analisis Informacion;Proceso Sanción Validacion H&PS;9999;VARIOS;5.5;5.5;$/jornada;Entrega Sancion mayo (28va): planillas - layers - eess - ortofotos - planos - ajuste;136952;753236;Fabian Veloso;Sancion;FV;
+
